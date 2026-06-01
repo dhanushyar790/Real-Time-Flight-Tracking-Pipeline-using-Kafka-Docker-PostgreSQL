@@ -39,32 +39,6 @@ Python, Apache Kafka, Zookeeper, PostgreSQL, Docker, Docker Compose, REST API
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1. Clone the repository
-
-git clone https://github.com/your-username/flight-tracking-pipeline.git
-cd flight-tracking-pipeline
-
----
-
-### 2. Add environment variables
-
-Create a .env file:
-
-API_KEY=your_aviationstack_api_key
-POSTGRES_USER=user
-POSTGRES_PASSWORD=password
-POSTGRES_DB=flightdb
-
----
-
-### 3. Run with Docker Compose
-
-docker-compose up --build
-
----
-
 ## 📊 PostgreSQL Table Schema
 
 CREATE TABLE flights (
@@ -100,5 +74,5 @@ CREATE TABLE flights (
 ## 👨‍💻 Author
 
 DHANUSHYA R
-GitHub: [https://github.com/your-username  ](https://github.com/dhanushyar790)
+GitHub:https://github.com/dhanushyar790
 LinkedIn: www.linkedin.com/in/dhanushyaravichandran
